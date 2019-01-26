@@ -1,7 +1,10 @@
 # Co-op-Preparation
 <h3>Week 1 Assignment</h3>
 <h5>
-    Requirements for the code:
+    1. Preferred Editor
+</h5>
+<h5>
+    2. Coding (Shell Scripting)
 </h5>
 <p>
     write a shell script to change the names of all .txt files based on the number of lines:
