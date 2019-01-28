@@ -17,4 +17,13 @@
     <br>
     d) more than 20: prefix the name by long_;
 </p>
+<p>
+    To use the code:
+    <ol>
+        <li>Create 4 .txt files. Each one with different numbers of lines.</li>
+        <li>Make sure the 4 .txt files and the change_name.sh file are in the same directory.</li>
+        <li>In the terminal run the change_name.sh file (./change_name.sh).</li>
+        <li>See the change?</li>
+    </ol>
+</p>
 <hr/>
